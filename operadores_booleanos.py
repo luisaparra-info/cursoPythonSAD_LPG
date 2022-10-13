@@ -8,3 +8,9 @@ if (n1 == n2):
 
 if (n1 != n2 ):
     print('Los números introducidos son diferentes')
+
+if (n1 >= n2):
+    print('el primer número es mayor o igual que el segundo')
+
+if (n2> n1):
+    print('El segundo numero es mayor que el primero')
