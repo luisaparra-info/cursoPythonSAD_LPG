@@ -20,3 +20,10 @@ print("El resultado de la division es "+str(resultado))
 #division entera
 resultado=operando1//operando2
 print("El resultado de la division entera es "+str(resultado))
+
+#Modulo de 2 operandos
+resultado=operando1%operando2
+print("El resultado del resto de la division es "+str(resultado))
+#Potencia de 2 operandos
+resultado=operando1**operando2
+print("El resultado de el primer operando "+str(operando1)+ "elevado a  "+str(operando2)+"es"+str(resultado))
