@@ -12,3 +12,8 @@ hexadicimal=hex(x)
 print(hexadicimal)
 octal=oct(x)
 print(octal)
+
+#Modificacion JLMP 
+
+redondeo = round(x,[y])
+print(redondeo)
