@@ -14,3 +14,6 @@ if (n1 >= n2):
 
 if (n2> n1):
     print('El segundo numero es mayor que el primero')
+
+if (n1 <= n2):
+    print('El segundo numero es mayor o igual que el primero')
