@@ -20,7 +20,7 @@ print(binaria)
 potencia=pow(x,y)
 print(potencia)
 
-#Modificacion JLPM 
+#Modifcion JLPM
 
 redondeo = round(x,[y])
 print(redondeo)
